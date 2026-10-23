@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ctoroad"
+version = "0.1.0"
+description = "Draw a roadmap from a JSON file, in the terminal, as PNG, or as SVG."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "click>=8.0",
+    "Pillow>=10.0",
+    "svgwrite>=1.4",
+]
+
+[project.scripts]
+ctoroad = "ctoroad:cli"
+
+[tool.setuptools]
+py-modules = ["ctoroad"]

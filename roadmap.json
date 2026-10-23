@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Discovery",
+		"startDate": "2026-01-05",
+		"endDate": "2026-02-13"
+	},
+	{
+		"name": "Platform Migration",
+		"startAfter": "Discovery",
+		"endDate": "2026-05-29"
+	},
+	{
+		"name": "Design System",
+		"startDate": "2026-02-02",
+		"endDate": "2026-04-17"
+	},
+	{
+		"name": "Mobile App",
+		"startAfter": "Design System",
+		"endDate": "2026-07-31"
+	},
+	{
+		"name": "Launch",
+		"startAfter": "Platform Migration",
+		"endDate": "2026-06-30"
+	}
+]

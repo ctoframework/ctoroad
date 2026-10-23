@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" font-family="DejaVu Sans, Verdana, sans-serif" height="340" version="1.1" viewBox="0,0,980,340" width="980">
+  <defs/>
+  <rect fill="white" height="340" width="980" x="0" y="0"/>
+  <line stroke="#dddddd" stroke-width="1" x1="340.86538461538464" x2="340.86538461538464" y1="64" y2="310"/>
+  <text fill="#333333" font-size="12" x="343.86538461538464" y="60">2026-02</text>
+  <line stroke="#dddddd" stroke-width="1" x1="435.0961538461538" x2="435.0961538461538" y1="64" y2="310"/>
+  <text fill="#333333" font-size="12" x="438.0961538461538" y="60">2026-03</text>
+  <line stroke="#dddddd" stroke-width="1" x1="539.4230769230769" x2="539.4230769230769" y1="64" y2="310"/>
+  <text fill="#333333" font-size="12" x="542.4230769230769" y="60">2026-04</text>
+  <line stroke="#dddddd" stroke-width="1" x1="640.3846153846154" x2="640.3846153846154" y1="64" y2="310"/>
+  <text fill="#333333" font-size="12" x="643.3846153846154" y="60">2026-05</text>
+  <line stroke="#dddddd" stroke-width="1" x1="744.7115384615385" x2="744.7115384615385" y1="64" y2="310"/>
+  <text fill="#333333" font-size="12" x="747.7115384615385" y="60">2026-06</text>
+  <line stroke="#dddddd" stroke-width="1" x1="845.6730769230769" x2="845.6730769230769" y1="64" y2="310"/>
+  <text fill="#333333" font-size="12" x="848.6730769230769" y="60">2026-07</text>
+  <line stroke="#555555" stroke-width="2" x1="384.61538461538464" x2="384.61538461538464" y1="94.0" y2="142.0"/>
+  <line stroke="#555555" stroke-width="2" x1="596.6346153846154" x2="596.6346153846154" y1="190.0" y2="238.0"/>
+  <line stroke="#555555" stroke-width="2" x1="737.9807692307693" x2="737.9807692307693" y1="142.0" y2="286.0"/>
+  <text font-size="14" font-weight="bold" x="30" y="89.0">Discovery</text>
+  <text fill="#333333" font-size="12" x="30" y="107.0">2026-01-05 → 2026-02-13</text>
+  <rect fill="#cfe8ff" height="22" rx="6" ry="6" stroke="#555555" stroke-width="1" width="134.61538461538464" x="250.0" y="83.0"/>
+  <text font-size="14" font-weight="bold" x="30" y="137.0">Platform Migration</text>
+  <text fill="#333333" font-size="12" x="30" y="155.0">2026-02-14 → 2026-05-29</text>
+  <rect fill="#d8f5d0" height="22" rx="6" ry="6" stroke="#555555" stroke-width="1" width="353.36538461538464" x="384.61538461538464" y="131.0"/>
+  <text font-size="14" font-weight="bold" x="30" y="185.0">Design System</text>
+  <text fill="#333333" font-size="12" x="30" y="203.0">2026-02-02 → 2026-04-17</text>
+  <rect fill="#ffe3c2" height="22" rx="6" ry="6" stroke="#555555" stroke-width="1" width="252.40384615384613" x="344.2307692307692" y="179.0"/>
+  <text font-size="14" font-weight="bold" x="30" y="233.0">Mobile App</text>
+  <text fill="#333333" font-size="12" x="30" y="251.0">2026-04-18 → 2026-07-31</text>
+  <rect fill="#f3d1f4" height="22" rx="6" ry="6" stroke="#555555" stroke-width="1" width="353.36538461538464" x="596.6346153846154" y="227.0"/>
+  <text font-size="14" font-weight="bold" x="30" y="281.0">Launch</text>
+  <text fill="#333333" font-size="12" x="30" y="299.0">2026-05-30 → 2026-06-30</text>
+  <rect fill="#fff4b8" height="22" rx="6" ry="6" stroke="#555555" stroke-width="1" width="107.69230769230762" x="737.9807692307693" y="275.0"/>
+</svg>

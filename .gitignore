@@ -1,0 +1,27 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated charts
+roadmap.png
+roadmap.svg
+
+# Packaging build output
+build/
+dist/
+*.egg-info/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+.env
